@@ -1,3 +1,5 @@
+**Objective**
+
 This project has the objective to design and construct a solar monitoring system to display 
 the values of voltage, current, power, energy, savings, and the maximum power transfer via 
 Blynk 2.0 and the OLED display. The board ESP32 is used to process the results of the data from 
